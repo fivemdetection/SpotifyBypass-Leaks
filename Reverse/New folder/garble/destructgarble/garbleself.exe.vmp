@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Document Version="2">
+    <Protection InputFileName="garbleself.exe" Options="396744" VMCodeSectionName=".themida">
+        <Messages>
+            <Message Id="0"></Message>
+            <Message Id="1"></Message>
+            <Message Id="2"></Message>
+            <Message Id="3"></Message>
+            <Message Id="4"></Message>
+        </Messages>
+        <Folders />
+        <Procedures>
+            <Procedure MapAddress="EntryPoint" Options="0" CompilationType="2" Complexity="100" />
+        </Procedures>
+        <Objects />
+    </Protection>
+    <Script />
+</Document>
